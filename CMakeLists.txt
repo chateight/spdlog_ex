@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 14)
 
 include_directories("packages") 
 
-add_executable(logTest src/spdlog_t.cpp)
+add_executable(spdlogTest src/spdlog_t.cpp)
